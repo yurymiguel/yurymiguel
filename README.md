@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @yurymiguel
-- 👀 I’m interested in programing,devops,cybersecurity
-- 🌱 I’m currently learning data science,phyton,r studio,information system
-- 💞️ I’m looking to collaborate on developments, project creation, security in the IT area
+- 👋 olá eu sou @yurymiguel
+- 🌱 eu estou estudando,sistema de informação,data science,linguagem phyton,e r studio
 - 📫 How to reach me yurymiguel44@gmail.com
 
 <!---
