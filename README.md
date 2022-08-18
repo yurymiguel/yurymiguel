@@ -22,4 +22,4 @@
 Minha Vocação é programar,amo o que faço,e principalmente amo dados(ainda mais quando eles nos mostram as respostas).
 
 Cursando Análise e Desenvolvimento de Sistemas,DataScience,Business inteligence.
-19 anos
+
