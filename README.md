@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eumesmo_yury)
 
 
-## Softwares que uso e tenho foco total.
+## Linguagens de Programação e Softwares que mais uso.
 
 <div style="display: inline_block">
 
@@ -15,13 +15,13 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="ts" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+ 
 </div><br/>
 </div><br/>
 
-Minha Vocação é programar,amo o que faço,e principalmente amo dados(ainda mais quando eles nos mostram as respostas).
+Minha Vocação é programar,amo o que faço,e principalmente amo dados.
 
 Cursando Análise e Desenvolvimento de Sistemas
 
-Trabalho com DataScience,Business inteligence,Machine Learning,Big Data.
+Trabalho com Data Science, Business inteligence, Machine Learning, Inteligência Artificial, Big Data.
 
