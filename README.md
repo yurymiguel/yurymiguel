@@ -19,9 +19,9 @@
 </div><br/>
 </div><br/>
 
-Minha Vocação é programar,amo o que faço,e principalmente amo dados.
+Minha Vocação é programar, amo o que faço, e principalmente amo dados.
 
 Cursando Análise e Desenvolvimento de Sistemas
 
-Trabalho com Data Science, Business inteligence, Machine Learning, Inteligência Artificial, Big Data.
+Trabalho com Data Science, Business inteligence, Machine Learning, Inteligência Artificial, Big Data, Desenvolvimento de Sistemas.
 
